@@ -1,4 +1,4 @@
-# Henlo. It Me.
+# Hello. It Me.
 
 I'm Beppe, currently working for Belgium Ministry of Finance (FODFin/MinFin) in Service Operations.
 This basically means is i get to do almost any field of IT in my job (excluding hardware).
